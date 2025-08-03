@@ -22,6 +22,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
@@ -54,13 +56,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/k3r0sense/count.svg?"  />
 
 ###
