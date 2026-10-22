@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img src="https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" />
