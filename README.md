@@ -1,42 +1,58 @@
-<h1 align="center">👋🏻 Welcome!</h1>
+# Grigory Markovich
 
-###
+**Python Backend Developer · Applied AI / LLM · Voice AI**
 
-<h3 align="left">🧰 My Tech Stask</h3>
+I build Python backend services and integrate language models, speech technologies, and business systems. My work spans APIs, CRM workflows, call analytics, and local/cloud LLM integrations.
 
-###
+Разрабатываю backend-сервисы на Python, интеграции LLM, голосовые AI-сценарии и автоматизацию CRM.
 
-<h4 align="right">⚙️ Languages</h4>
+## Engineering focus
 
-###
+| Area | Technologies & experience |
+| --- | --- |
+| **Backend** | Python, FastAPI, SQLAlchemy, PostgreSQL, REST APIs, pytest |
+| **Applied LLM** | OpenAI API, YandexGPT, Qdrant / RAG, local Mistral and Gemma models |
+| **Voice & telephony** | Asterisk, Yandex SpeechKit, SaluteSpeech, ElevenLabs, STT / TTS |
+| **Infrastructure** | Docker / Podman, Linux, CI/CD, Yandex Cloud |
+| **Also** | JavaScript / TypeScript, CRM and third-party API integrations |
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-</div>
+## Selected public projects
 
-###
+### [Orders synchronizer — Python / Yandex Cloud Functions](https://github.com/k3r0sense/tz)
 
-<h4 align="right">💾 Databases</h4>
+A small, dependency-free serverless service that fetches orders and produces deterministic, deduplicated client records.
 
-###
+- Phone normalization, validation, date-aware record selection and summary statistics.
+- Explicit handling of upstream errors and timeouts.
+- Automated tests, local HTTP adapter and packaging/deployment scripts.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-</div>
+**Demonstrates:** predictable data processing, error handling, tests, and serverless delivery.
 
-###
+### [Gemma AI Telegram bot — Python / aiogram / Ollama](https://github.com/k3r0sense/gemma-ai-bot)
 
-<h4 align="right">💻 OS & Docker</h4>
+A learning/demo project that connects Telegram to a locally hosted Gemma model.
 
-###
+- Asynchronous response streaming and progress updates.
+- Per-user conversation history held in memory.
+- Minimal setup for experimenting with local LLMs.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-</div>
+**Scope:** demo project, not a production-grade chat platform.
 
-###
+### [Searcher — Rust CLI](https://github.com/k3r0sense/searcher)
+
+A small command-line utility for finding files and directories by name.
+
+## Commercial work (source code is private)
+
+- Built and integrated AI-assisted call processing, transcription and conversation classification.
+- Developed Python APIs, CRM features and an LLM-powered sales-assistant workflow.
+- Worked with telephony integrations, speech recognition/synthesis, local LLMs and infrastructure automation.
+
+I describe my public repositories separately from private commercial work; this profile does not contain proprietary code or customer data.
+
+## Contact
+
+- **Telegram:** [@k3r0sense](https://t.me/k3r0sense)
+- **GitHub:** [github.com/k3r0sense](https://github.com/k3r0sense)
+
+Interested in Python Backend and Applied AI / LLM engineering opportunities, including remote roles.
